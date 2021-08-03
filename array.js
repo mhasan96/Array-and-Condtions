@@ -1,8 +1,8 @@
-// //Normal Styela ekjon friend er Age input
+// // //Normal Styela ekjon friend er Age input
 
-// var friendsAge = 11;
+// // var friendsAge = 11;
 
-// Onek gulah friend er Age ek jaygau rakhar jonno Array
+// // Onek gulah friend er Age ek jaygau rakhar jonno Array
 
 var friendsAge = [11, 13, 15, 23, 10];
 
@@ -20,3 +20,7 @@ console.log(naiykas);
 // Array-Length ber kora
 
 console.log(naiykas.length);
+
+// indexOf kon array te value ta ache sheta bolbe
+var nums = [1, 5, 8];
+console.log(nums.indexOf(5));
